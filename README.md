@@ -1,4 +1,4 @@
-# Akka.NET and SignalR
-A way to handle creditcard payments (many at once) using the Actor Model and ASP.NET
+# Credit Card Payment Processor (ASP.NET & Akka.NET & SignalR)
+Charge creditcards against a given pay gateway by using the Actor Model (Akka)
 
-See https://www.youtube.com/watch?v=3evjf1UrGjs
+See https://www.youtube.com/watch?v=eDSQzV7QQrU
